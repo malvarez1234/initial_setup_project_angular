@@ -1,0 +1,27 @@
+{
+  "name": "initial_setup_project_angular",
+  "description": "Angual test project",
+  "main": "gulpfile.js",
+  "authors": [
+    "Miguel Alvarez"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-animate": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "jquery": "~2.2.0",
+    "animate.css": "~3.5.1",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
